@@ -4,7 +4,7 @@ An _extremely_ simple counter app using the DK64 number font, written in Python.
 
 ## Installing/Running
 
-If you have Python 3.14+ installed on your machine, you can simply clone the repo and run `python couter.py`. Or, download and install the exe or msi on the "Releases" tab. (They're safe, I promise.)
+If you have Python 3.14+ installed on your machine, you can simply clone the repo and run `python couter.py`. Or, download and install the exe or msi on the "Releases" tab. (They're safe, I promise.) I'm only able to build for Windows systems right now, unfortunately.
 
 ## Running the Counter
 
